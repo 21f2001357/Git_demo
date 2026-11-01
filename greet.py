@@ -3,4 +3,8 @@ def greet(name):
 
 print(greet("Alice"))
 
-this line is by mistake
+def third(name):
+    return "Hi, " + name
+
+print(third("Charlie"))
+
